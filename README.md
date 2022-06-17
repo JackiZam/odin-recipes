@@ -1,1 +1,2 @@
 # odin-recipes
+Create a HTML basic recipe website, which will consist of a main index and link to recipes. Once I've completed this project, I will have demonstrated skills with HTML web development involving creating webpages, linking between web pages, and using various HTML text functions.
